@@ -1,0 +1,48 @@
+# DATA
+
+## DATA LAYER
+
+- Accumulator values
+- Total
+
+## DATA MODIFICATION
+
+- Add numbers to Accumulate
+- Delete numbers from Accumulate
+- Reset Accumulate
+- Recalculate total
+
+## APP
+
+- Receives number to Accumulate
+- Receives operator to operate
+- Send Accumulator to Display
+- Send Total to Display
+
+## COMPONENTS
+
+## DISPLAY
+
+- Receives numbers from App
+- Show accumulator
+- Receives operators from keys
+- Show operator key
+- Receives total from App
+- Show total
+
+## LIST OF BUTTON NUMBERS
+
+- Show Button numbers 0 to 9
+
+## BUTTON NUMBER
+
+- Show number text
+- Receives order to send number to App
+- Send number to App
+
+## BUTTON OPERATOR
+
+- Show key operator text
+- Receives order to operate
+- Send order to App
+- Send key operator to Display
